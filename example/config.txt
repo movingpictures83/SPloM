@@ -1,0 +1,2 @@
+Prefix plugins/SPloM/example/
+Plugin SPloM inputfile resample.rds outputfile output.png
